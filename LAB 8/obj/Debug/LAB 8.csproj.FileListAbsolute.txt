@@ -1,0 +1,20 @@
+C:\Users\AU_Student\Documents\LAB\LAB 8\LAB 8\obj\Debug\LAB 8.csproj.AssemblyReference.cache
+C:\Users\AU_Student\Documents\LAB\LAB 8\LAB 8\obj\Debug\LAB_8.Form1.resources
+C:\Users\AU_Student\Documents\LAB\LAB 8\LAB 8\obj\Debug\LAB_8.Properties.Resources.resources
+C:\Users\AU_Student\Documents\LAB\LAB 8\LAB 8\obj\Debug\LAB 8.csproj.GenerateResource.cache
+C:\Users\AU_Student\Documents\LAB\LAB 8\LAB 8\obj\Debug\LAB 8.csproj.CoreCompileInputs.cache
+C:\Users\AU_Student\Documents\LAB\LAB 8\LAB 8\bin\Debug\LAB 8.exe.config
+C:\Users\AU_Student\Documents\LAB\LAB 8\LAB 8\bin\Debug\LAB 8.exe
+C:\Users\AU_Student\Documents\LAB\LAB 8\LAB 8\bin\Debug\LAB 8.pdb
+C:\Users\AU_Student\Documents\LAB\LAB 8\LAB 8\obj\Debug\LAB 8.exe
+C:\Users\AU_Student\Documents\LAB\LAB 8\LAB 8\obj\Debug\LAB 8.pdb
+C:\Users\AU_Student\Documents\LAB\LAB 8\Question 1\LAB 8\bin\Debug\LAB 8.exe.config
+C:\Users\AU_Student\Documents\LAB\LAB 8\Question 1\LAB 8\bin\Debug\LAB 8.exe
+C:\Users\AU_Student\Documents\LAB\LAB 8\Question 1\LAB 8\bin\Debug\LAB 8.pdb
+C:\Users\AU_Student\Documents\LAB\LAB 8\Question 1\LAB 8\obj\Debug\LAB 8.csproj.AssemblyReference.cache
+C:\Users\AU_Student\Documents\LAB\LAB 8\Question 1\LAB 8\obj\Debug\LAB_8.Form1.resources
+C:\Users\AU_Student\Documents\LAB\LAB 8\Question 1\LAB 8\obj\Debug\LAB_8.Properties.Resources.resources
+C:\Users\AU_Student\Documents\LAB\LAB 8\Question 1\LAB 8\obj\Debug\LAB 8.csproj.GenerateResource.cache
+C:\Users\AU_Student\Documents\LAB\LAB 8\Question 1\LAB 8\obj\Debug\LAB 8.csproj.CoreCompileInputs.cache
+C:\Users\AU_Student\Documents\LAB\LAB 8\Question 1\LAB 8\obj\Debug\LAB 8.exe
+C:\Users\AU_Student\Documents\LAB\LAB 8\Question 1\LAB 8\obj\Debug\LAB 8.pdb
